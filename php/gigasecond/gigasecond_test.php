@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 require_once 'PHPUnit/Framework/TestCase.php';
+=======
+
+>>>>>>> 14d380ac29e06445c2e4508c2ee4387ad37e0863
 require "gigasecond.php";
 
 class GigasecondTest extends \PHPUnit_Framework_TestCase
